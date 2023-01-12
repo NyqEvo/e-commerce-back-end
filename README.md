@@ -16,4 +16,4 @@ This is a project made to display, create, adjust, and/or delete data for a e-co
 - config folder: contains the file used to connect to the database using sequelize
 
 ## Links
-[Recording of program in use]()
+[Recording of program in use](https://drive.google.com/file/d/1ZMY97B_ZC2l3cEg688rQlKnIAg8GaBwC/view)
